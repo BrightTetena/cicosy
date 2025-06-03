@@ -37,8 +37,8 @@ import raindrop from "./collaboration/raindrop.png";
 import slack from "./collaboration/slack.png";
 
 import service1 from "./services/service-1.png";
-import service2 from "./services/text.jpg";
-import service3 from "./services/service-3.png";
+import service2 from "./Images/text.webp";
+import service3 from "./services/NLP.jpg";
 import service4 from "./services/service-4.png";
 
 
@@ -69,7 +69,12 @@ import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
-import benefitImage2 from "./services/NLP.jpg";
+import benefitImage1 from "./Images/NLP.webp";
+import benefitImage2 from "./Images/computervision.webp";
+import benefitImage3 from "./Images/bigstock-fraud.detection-scaled.webp";
+import benefitImage4 from "./Images/support.webp";
+import benefitImage5 from "./Images/trading.webp";
+import benefitImage6 from "./Images/resize.webp";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -142,7 +147,12 @@ export {
   benefitIcon2,
   benefitIcon3,
   benefitIcon4,
+  benefitImage1,
   benefitImage2,
+  benefitImage3,
+  benefitImage4,
+  benefitImage5,
+  benefitImage6,
   discordBlack,
   facebook,
   instagram,

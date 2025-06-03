@@ -1,7 +1,7 @@
 import React from 'react';
 import Section from './Section';
 import  zapf  from "../assets/Images/zapf.png";
-import newworld from "../assets/Images/newworld.png";
+import newworld from "../assets/Images/newworld.webp";
 import Heading from './Heading';
 
 const Logo = () => {

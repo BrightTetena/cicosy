@@ -18,7 +18,7 @@ const App = () => {
     <>
       <div className="">
         <Nav/>
-        <Hero/>
+<Hero/>
         <Logo/>
 <Home/>
 <Studio/>
